@@ -1,3 +1,3 @@
 # React - Firebase app
 
-###`npm start` to start App
+`npm start` to start App
